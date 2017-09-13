@@ -1,0 +1,25 @@
+state,district,year,crop_name,Production
+Maharashtra,Yavatmal,2014,cotton,40000
+Maharashtra,sangli,2014,sugarcane,50000
+Panjab, Amritsar,2014,wheat,40000
+Panjab, Hoshiarpur,2014,sugarcane,30000
+Maharashtra,sangli,2014,cotton,25000
+Maharashtra,Yavatmal,2014,sugarcane,10000
+Panjab, Amritsar,2014,cotton,5000
+Maharashtra,sangli,2014,wheat,21000
+Maharashtra,Yavatmal,2014,wheat,25000
+Panjab, Amritsar,2014,sugarcane,10000
+Panjab, Hoshiarpur,2014,cotton,7000
+Panjab, Hoshiarpur,2014,wheat,45000
+Maharashtra,Yavatmal,2015,cotton,42000
+Maharashtra,sangli,2015,sugarcane,48000
+Panjab, Amritsar,2015,wheat,35000
+Panjab, Hoshiarpur,2015,sugarcane,35000
+Maharashtra,sangli,2015,cotton,30000
+Maharashtra,Yavatmal,2015,sugarcane,8000
+Panjab, Amritsar,2015,cotton,4000
+Maharashtra,sangli,2015,wheat,25000
+Maharashtra,Yavatmal,2015,wheat,26000
+Panjab, Amritsar,2015,sugarcane,12000
+Panjab, Hoshiarpur,2015,cotton,8000
+Panjab, Hoshiarpur,2015,wheat,48000
