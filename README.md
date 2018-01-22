@@ -5,4 +5,4 @@ Useful for student pursuing B.Tech in information technology at Walchand college
 ## Note:- 
 This repository is just for reference purpose. I am requesting all users to try it by your own.
 
-Thank you..!! :-)
+Thank you...!!! :-)
