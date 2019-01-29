@@ -2,6 +2,6 @@
 This repository contains all the data mining lab assignment for 7th semester, useful for student pursuing B.Tech in information technology at Walchand college of Engineering, Sangli.
 
 ## Note:- 
-This repository is just for reference purpose. I am requesting all users to try it by your own.
+This repository is just for reference purpose. I am suggesting all the users to try it by your own.
 
 Thank you...!!! :-)
